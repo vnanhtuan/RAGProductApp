@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "JkqaqJezmu4=",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\RAGMovieApp\\RAGMovieApp\\RAGMovieApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\google.protobuf\\3.31.0\\google.protobuf.3.31.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\grpc.core.api\\2.71.0\\grpc.core.api.2.71.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\grpc.net.client\\2.71.0\\grpc.net.client.2.71.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\grpc.net.common\\2.71.0\\grpc.net.common.2.71.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.ai.abstractions\\9.9.0\\microsoft.extensions.ai.abstractions.9.9.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.ai.ollama\\9.7.0-preview.1.25356.2\\microsoft.extensions.ai.ollama.9.7.0-preview.1.25356.2.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.8\\microsoft.extensions.dependencyinjection.abstractions.9.0.8.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.vectordata.abstractions\\9.7.0\\microsoft.extensions.vectordata.abstractions.9.7.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.semantickernel.connectors.qdrant\\1.65.0-preview\\microsoft.semantickernel.connectors.qdrant.1.65.0-preview.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\qdrant.client\\1.14.1\\qdrant.client.1.14.1.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.net.http.json\\9.0.7\\system.net.http.json.9.0.7.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.text.json\\9.0.7\\system.text.json.9.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
