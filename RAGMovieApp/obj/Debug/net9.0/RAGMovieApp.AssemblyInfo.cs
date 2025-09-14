@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RAGMovieApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9e84d518f486f887739465e86ac3d50a6876eda")]
 [assembly: System.Reflection.AssemblyProductAttribute("RAGMovieApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RAGMovieApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
